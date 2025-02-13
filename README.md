@@ -27,7 +27,7 @@ Senior Software Engineer with 10+ years of experience in full-stack development,
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alinrajpoot94&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alinrajpoot&show_icons=true&theme=dark)
 
 ## 🌟 Featured Projects
 
