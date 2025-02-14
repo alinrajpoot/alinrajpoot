@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ali N Rajpoot
+# Hi there 👋, I'm Ali Rajpoot
 
 Senior Software Engineer with 10+ years of experience in full-stack development, specializing in JavaScript ecosystems and emerging technologies.
 
@@ -37,8 +37,6 @@ Senior Software Engineer with 10+ years of experience in full-stack development,
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](your_linkedin_url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your_twitter_url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-success)](your_portfolio_url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alinrajpoot94/)
 
 ## 📊 Weekly Development Breakdown
