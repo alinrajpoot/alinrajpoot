@@ -25,9 +25,10 @@ Senior Full-Stack & Web3 Engineer with 8+ years of experience architecting and s
 - Frontend Engineer at [Finli](https://finli.com), San Marino, USA - Remote (February 2019 — August 2019)
 - Golang Developer at [Alpaca Markets](https://alpaca.markets), California, USA - Remote (July 2018 — February 2019)
 
-[comment]: ## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-[comment]: ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alinrajpoot&show_icons=true&theme=dark)
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alinrajpoot&show_icons=true&theme=dark)
+ -->
 
 ## 🌟 Featured Projects
 
