@@ -31,11 +31,14 @@ Senior Full-Stack & Web3 Engineer with 8+ years of experience architecting and s
 
 ## 🌟 Featured Projects
 
-- **NFT Wallet for Gaming Guild (Chrome Extension)** - A secure Chrome extension wallet for managing in-game NFTs, serving over 10,000 users with features for cryptographic key management and
+- **NFT Wallet for Gaming Guild (Chrome Extension)**
+  A secure Chrome extension wallet for managing in-game NFTs, serving over 10,000 users with features for cryptographic key management and
 cross-network transactions (Ethereum/Polygon).
-- **Get Me Job (Chrome Extension)** - A tool to automate job discovery from Angel.co and Glassdoor, using data aggregation and parsing algorithms to reduce manual search time by 90%
+- **Get Me Job (Chrome Extension)**
+  A tool to automate job discovery from Angel.co and Glassdoor, using data aggregation and parsing algorithms to reduce manual search time by 90%
 for users.
-- **Property Radar Max (Chrome Extension)** - A Chrome extension with a custom backend API to analyze real estate listings, delivering personalized property alerts and maximizing actionable
+- **Property Radar Max (Chrome Extension)**
+  A Chrome extension with a custom backend API to analyze real estate listings, delivering personalized property alerts and maximizing actionable
 insights for users.
 
 ## 📫 Connect With Me
